@@ -9,7 +9,7 @@ Projeto criado como parte avaliativa da Disciplina de Fundamentos de Desenvolvim
  
   ### descrição
  
-O projeto consiste na construção de três telas de cadstro, possibilitando o usuário a realizar um cadastro de evento, inserindo e-mail,datav do evento, e outras informações pessoais e de endereço, com a primeira página sendo de informações pessoais, sendo apenas 1 página para fins de selecionar o tipo de evento. O projeto foi realizado em sala, utilizando diversos elementos do HTML5 e propriedades do CSS3.
+O projeto consiste na construção de três telas de cadstro, possibilitando o usuário a realizar um cadastro de evento, inserindo e-mail,data do evento, e outras informações pessoais e de endereço, com a primeira página sendo de informações pessoais, sendo apenas 1 página para fins de selecionar o tipo de evento. O projeto foi realizado em sala, utilizando diversos elementos do HTML5 e propriedades do CSS3.
  
 ### Propriedades CSS
  
