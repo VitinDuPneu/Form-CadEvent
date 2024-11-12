@@ -31,10 +31,10 @@ A propriedade font-weight define quão grossos ou f inos os caracteres do texto 
 * H3 - Usado para inserir título no formulário.
 * Label - Dá nome para a área de escrita, seja e-mail ou senha.
 * Input -  Permite que o usuário escreva na página.
-* Selection - O elemento select permite uma ou mais opções em um menu onde cada opção é representada por um elemento option
+* Select - O elemento select permite uma ou mais opções em um menu onde cada opção é representada por um elemento option
 * Option - O elemento <option> no HTML é usado para definir uma opção dentro de uma lista de seleção. As opções são representadas por este elemento e podem ser agrupadas em elementos <optgroup>.
 * Button -  Cria um botão clicável.
- 
+* textare - O Textarea é um campo de entrada de texto que permite que seu aplicativo aceite um valor de texto potencialmente longo do usuário.
  
  
 ## Referências
